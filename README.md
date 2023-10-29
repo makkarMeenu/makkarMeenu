@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39
 
   
 ## 💫 About Me:
-<br />🔭 I’m a Software Engineer at [Geekyants](https://geekyants.com), developing [gluestack](https://gluestack.io).
+<br />🔭 I’m a Software Engineer at [GeekyAnts](https://geekyants.com), developing [gluestack](https://gluestack.io).
 <br />👯 I’m a core developer of [NativeBase](https://nativebase.io).
 <br />📇 Core contributor at React Native Web and expo
 <br />🎨 Art Enthusiast
