@@ -7,8 +7,7 @@
 
   
 ## 💫 About Me:
-<br />🔭 I’m a Software Engineer at [GeekyAnts](https://geekyants.com), developing [gluestack](https://gluestack.io).
-<br />👯 I’m a core developer of [NativeBase](https://nativebase.io).
+<br />🔭 I’m a Senior Frontend Engineer at [Lineaje](https://www.lineaje.com).
 <br />📇 Core contributor at React Native Web and expo
 <br />🎨 Art Enthusiast
 
